@@ -1,0 +1,10 @@
+10.0 fahrenheit = -12.22 celsius
+22.0 fahrenheit = -5.56 celsius
+34.0 fahrenheit = 1.11 celsius
+46.0 fahrenheit = 7.78 celsius
+55.0 fahrenheit = 12.78 celsius
+69.0 fahrenheit = 20.56 celsius
+71.0 fahrenheit = 21.67 celsius
+83.0 fahrenheit = 28.33 celsius
+94.0 fahrenheit = 34.44 celsius
+99.0 fahrenheit = 37.22 celsius
